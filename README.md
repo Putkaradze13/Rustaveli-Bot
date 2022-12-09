@@ -1,4 +1,4 @@
-# Task15_Bot1
+# Rustaveli Bot
 
 **How To Run**
 
